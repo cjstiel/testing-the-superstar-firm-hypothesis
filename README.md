@@ -17,7 +17,7 @@ fixed overhead labor costs over more output, thereby reducing their own labor sh
 
 ### Firm-level data
 
-The study uses the IAB Establishment Panel, waves 1993-2017. DOI: 10.5164/IAB.IABBP9317.de.en.v1. The data set is
+The study uses the [_IAB Establishment Panel_](https://doi.org/10.5164/IAB.IABBP9317.de.en.v1), waves 1993-2017. The data set is
 
 - an annual survey of 160,000 establishments covering the whole German economy
 - conducted by the Federal Employment Agency
